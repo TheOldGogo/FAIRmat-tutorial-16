@@ -1,13 +1,13 @@
-# FAIRmat Tutorial 16: Getting started with NOMAD for materials-science research data management
+# Introduction to Conda & FAIR Data Workshop: Getting started with NOMAD for materials-science research data management
 
-**Date:** February 26, 2025  
-**Time:** 13:00–16:00 CET  
-**Speakers:** Adrianna Wojas, Ahmed Mansour, Siamak Nakhaie  
-**Location:** Online  
+**Date:** September 28, 2025  
+**Time:** 11:00–13:00 GMT+3  
+**Speakers:** Julien Gorenflot  
+**Location:** Hybrid  
 **Web:** <a href="https://events.fairmat-nfdi.eu/event/34/" target="_blank" rel="noopener noreferrer">https://events.fairmat-nfdi.eu/event/34/</a>  
 **Slides and files:** Download <a href="https://github.com/FAIRmat-NFDI/FAIRmat-tutorial-16/raw/refs/heads/main/tutorial_16_materials.zip" target="_blank" rel="noopener noreferrer">here</a>
 
-In **FAIRmat tutorial 16**, you'll learn how to use **NOMAD** to manage and organize your materials-science research data. Whether you are working with computational or experimental data, NOMAD's graphical user interface makes it easy to upload, share, explore, and analyze your data. We will also focus on using NOMAD to improve collaboration on your research projects and to ensure that your data align with the FAIR data principles (Findable, Accessible, Interoperable, and Reusable).
+This tutorial is very largely adapted from **FAIRmat tutorial 16**. In it you'll learn how to use **NOMAD** to manage and organize your materials-science research data. Although NOMAD is conceived for material science research data, the general principle do apply to research data in general. Whether you are working with computational or experimental data, NOMAD's graphical user interface makes it easy to upload, share, explore, and analyze your data. We will also focus on using NOMAD to improve collaboration on your research projects and to ensure that your data align with the FAIR data principles (Findable, Accessible, Interoperable, and Reusable).
 
 ## What you'll do:
 
